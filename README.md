@@ -31,7 +31,7 @@
 
 10. And on chart 10, we explore **the average charges in each country** in EURO and in USD with a **Stacked Bar Chart**. This can tell us how the choice of currency can have an impact on the charges. While in some countries using EURO will have lower charges, in others this might not be the case.
 
-11. The 11th chart uses a **parameter** to filter the view **by Year**. The display is a **Bubble Chart** showing the number of transactions per country per year. The **size** of the bubble also inidicates the number of the transactions in the respective country. 
+11. The 11th chart uses a **parameter** to filter the view **by Year**. The display is a **Bubble Chart** showing the number of transactions per country per year. The **size** of the bubble also indicates the number of the transactions in the respective country. 
 
 12. Lastly, we will display a **Map** with key informations from our previous charts. This is also done by a **parameter** using **Country as a filter**. By clicking on a specific country, the key informations of that country will show in the view. 
 
