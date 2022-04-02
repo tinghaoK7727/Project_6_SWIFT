@@ -36,4 +36,5 @@
 12. Lastly, we will display a **Map** with key informations from our previous charts. This is also done by a **parameter** using **Country as a filter**. By clicking on a specific country, the key informations of that country will show in the view. 
 
 
-
+**Summary and Conclusion:**
+As mentioned previously, the purpose of this dashboard is to first of all show stakeholders a **global view** on the situation of our Cross-Border transactions in the past, and gain predictive information about the future with the help of forecast. Secondly, we put an **emphasis on the countries** with whom the transactions were made. By exploring the different elements such as average charges per country per currency, the disrtibution of transaction number in the world, and the total initial amount by country etc, we should be also to conclude some basic insight. Then again, **further investigation and information from other business units such as the purpose of the transactions, the directions of cash flow (in or out) and the cross-border business strategy of the company would also be required** in order to construct concrete suggestions with more relevance to reality.
