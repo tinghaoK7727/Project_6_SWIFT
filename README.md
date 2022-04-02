@@ -19,9 +19,9 @@
 
 4. Our fourth chart is a **Line Chart** of the Initial Amount by month + a **forecast** for following months. In order to have a smooth line, we put 0 for the months with missing data. **Depending on the directions of the cashflow** (either in or out), we can gain some insight on our business reality as well.
 
-5. Following we have another **forecast on the total number of transactions made by month**. This is done by a bar chart and we can see that the estimated number of transactions in the following months is 2. 
+5. Following we have another **forecast on the total number of transactions made by month**. This is done by a **Bar Chart** and we can see that the estimated number of transactions in the following months is 2. 
 
-6. The sixth chart is a **Line Chart** indicating **the choice of currency** for the tarnsacitons and their initial amount. We also drew a **Trend Line** to see the potential directions of how each currency and their initial amount could move in the future.
+6. The sixth chart is a **Line Chart** indicating **the choice of currency** for the transacitons and their initial amount. We also drew a **Trend Line** to see the potential directions of how each currency and their initial amount could move in the future.
 
 7. Starting from Chart 7 we will focus more on the countries wtith whom the transactions were made. We started with a **Tree Map** showing the choice of banks per country and their representation out of of all transactions.
 
